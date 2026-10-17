@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "cheatmod",
+  "version": "1.0.0",
+  "name": "CheatMod",
+  "description": "Simple client-side cheat mod",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.example.cheat.CheatMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}
