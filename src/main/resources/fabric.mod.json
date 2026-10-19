@@ -5,6 +5,7 @@
   "name": "CheatMod",
     "icon": "logo_big.png",
   "description": "Simple client-side cheat mod",
+    "icon": "logo_big.png",
   "environment": "client",
   "entrypoints": {
     "client": ["com.example.cheat.CheatMod"]
