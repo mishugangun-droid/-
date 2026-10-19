@@ -3,6 +3,7 @@
   "id": "cheatmod",
   "version": "1.0.0",
   "name": "CheatMod",
+    "icon": "logo_big.png",
   "description": "Simple client-side cheat mod",
   "environment": "client",
   "entrypoints": {
